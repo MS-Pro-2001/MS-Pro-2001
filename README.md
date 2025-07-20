@@ -4,7 +4,7 @@
 💼 1+ Years of experience in building scalable web and mobile applications  
 🌱 Currently building: [Project Name or Learning Path]  
 📫 Connect with me: www.linkedin.com/in/mridul-sehgal-616673193 | mridul.sehgalwork@gmail.com  
-🌐 Portfolio: [Optional]
+🌐 Portfolio: https://portfolio-2025-8mv3.onrender.com
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
